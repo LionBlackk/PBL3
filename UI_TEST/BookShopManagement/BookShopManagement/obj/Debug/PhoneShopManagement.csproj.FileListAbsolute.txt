@@ -1,0 +1,12 @@
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\PhoneShopManagement.csproj.AssemblyReference.cache
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\PhoneShopManagement.csproj.SuggestedBindingRedirects.cache
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form_Dashboard.resources
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\PhoneShopManagement.csproj.GenerateResource.cache
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\PhoneShopManagement.csproj.CoreCompileInputs.cache
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\C#\WINFORM\UI_TEST\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
